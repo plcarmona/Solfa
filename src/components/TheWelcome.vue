@@ -23,7 +23,7 @@ import SupportIcon from './icons/IconSupport.vue'
     </template>
     <template #heading>Payroll</template>
 
-    Gestionamos las nominas de tu empresa, ahorrandote tiempo y dinero.
+    Gestionamos las nóminas de tu empresa, ahorrándote tiempo y dinero.
   </WelcomeItem>
 
   <WelcomeItem>
@@ -34,7 +34,7 @@ import SupportIcon from './icons/IconSupport.vue'
 
     Trabajamos en 
     <a href="https://notion.so" target="_blank" rel="noopener">Notion</a> 
-    permitiendo trabajar en equipo de forma colaborativa y rapida.
+    permitiendo trabajar en equipo de forma colaborativa y rápida.
   </WelcomeItem>
 
   <WelcomeItem>

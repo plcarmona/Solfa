@@ -18,4 +18,7 @@
   }
 
 }
+.h3 {
+    text-justify: auto;
+}
 </style>
